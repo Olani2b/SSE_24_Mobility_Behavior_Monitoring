@@ -1,0 +1,15 @@
+{
+  "operative_mode": "development",
+  "preparation_system_ip": "127.0.0.1",
+  "preparation_system_port": 6004,
+  "evaluation_system_ip": "127.0.0.1",
+  "evaluation_system_port": 6009,
+  "production_window": 5,
+  "evaluation_window": 5,
+  "missing_samples_threshold": 1,
+  "db_name": "mobility.db",
+  "calendar_schema_path": "./data/calendar_schema.json",
+  "pressure_detected_schema_path": "./data/pressure_detected_schema.json",
+  "environment_schema_path": "./data/environment_schema.json",
+  "time_series_schema_path": "./data/time_series_schema.json"
+}

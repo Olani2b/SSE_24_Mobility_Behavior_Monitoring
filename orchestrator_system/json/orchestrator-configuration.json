@@ -1,0 +1,30 @@
+{
+    "client-system": {
+        "ip": "127.0.0.1",
+        "port": 6000
+    },
+    "ingestion-system": {
+        "ip": "127.0.0.1",
+        "port": 6003
+    },
+    "preparation-system": {
+        "ip": "127.0.0.1",
+        "port": 6004
+    },
+    "segregation-system": {
+        "ip": "127.0.0.1",
+        "port": 6005
+    },
+    "development-system": {
+        "ip": "127.0.0.1",
+        "port": 6007
+    },
+    "production-system": {
+        "ip": "127.0.0.1",
+        "port": 6008
+    },
+    "evaluation-system": {
+        "ip": "127.0.0.1",
+        "port": 6009
+    }
+}

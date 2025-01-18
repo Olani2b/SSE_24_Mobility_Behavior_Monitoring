@@ -1,0 +1,11 @@
+{
+    "maxNumberOfToleratedErrors": 2,
+    "maxNumberOfConsecutiveToleratedErrors": 1,
+    "labelsThreshold": 3,
+    "testingMode": true,
+    "evaluationSystemIP": "127.0.0.1",
+    "evaluationSystemPort": 6009,
+    "messagingSystemIP": "127.0.0.1",
+    "messagingSystemPort": 6002,
+    "dbName": "./data/reports.db"
+}
