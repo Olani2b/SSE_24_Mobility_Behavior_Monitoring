@@ -1,5 +1,5 @@
 # MOBILITY BEHAVIOUR evaluation
-Github repo for the Software Systems Engineering at Computer Engineering course at Unipi. Accademic year 23/24.
+Github repo for the Software Systems Engineering at Computer Engineering course at Unipi. Accademic year 24/25.
 
 ### Dependencies installation
 - Create a virtual environment with your favourite virtual environment manager (venv in this case)
